@@ -18,7 +18,7 @@ Baidu Netdisk:
     code: 6i1j
     
     
-If the links works improperly, please contact us via wei-jing-bo@163.com.
+If the links work improperly, please contact us via wei-jing-bo@163.com.
 
 
 Please cite the published paper when using these datasets.
