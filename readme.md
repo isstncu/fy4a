@@ -25,13 +25,22 @@ Please cite the published paper when using these datasets.
 
 J. Wei, C. Zhou, J. Wang, and Z. Chen, "Time-Series FY4A Datasets for Super-Resolution Benchmarking of Meteorological Satellite Images," Remote Sensing, vol. 14, no. 21, p. 5594, 2022.
 
-@article{bib_dataset_fy4asr,
-   author = {Wei, Jingbo and Zhou, Chenghao and Wang, Jingsong and Chen, Zhou},
-   title = {Time-Series FY4A Datasets for Super-Resolution Benchmarking of Meteorological Satellite Images},
-   journal = {Remote Sensing},
-   volume = {14},
-   number = {21},
-   pages = {5594},
-   year = {2022},
-   type = {Journal Article}
-}
+    @article{bib_dataset_fy4asr,
+    
+       author = {Wei, Jingbo and Zhou, Chenghao and Wang, Jingsong and Chen, Zhou},
+       
+       title = {Time-Series FY4A Datasets for Super-Resolution Benchmarking of Meteorological Satellite Images},
+       
+       journal = {Remote Sensing},
+       
+       volume = {14},
+       
+       number = {21},
+       
+       pages = {5594},
+       
+       year = {2022},
+       
+       type = {Journal Article}
+       
+    }
